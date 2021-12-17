@@ -1,0 +1,29 @@
+.city {
+	display: flex;
+	flex-direction: column;
+	height: 130px;
+}
+
+.cityTemp {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.temp {
+	font-size: 1.3em;
+	font-weight: 600;
+}
+
+.cityTemp {
+	font-size: 1.4em;
+}
+
+.superDeg {
+	font-weight: 300;
+	font-size: 0.6em;
+}
+
+.time {
+	font-size: 0.6em;
+}

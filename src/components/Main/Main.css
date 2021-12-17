@@ -1,0 +1,19 @@
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 100vh;
+}
+
+.main__weather {
+	margin-left: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.main__headerInput {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
